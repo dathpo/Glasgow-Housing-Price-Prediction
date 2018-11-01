@@ -15,8 +15,7 @@ import sklearn
 # COMMENT CODE FOR ASSIGNMENT!
 
 pd.options.mode.chained_assignment = None
-data_folder = Path("data/")
-simd_folder = Path("simd/")
+prices_folder = Path("data/")
 cols_2excl = ['CLASS', 'STNO', 'STnu', 'FLATPOSN', 'YEAR OF SALE (BUSINESS)',
               'MONTH OF SALE', 'QUARTER_(CALENDAR)', 'OMIT OR USE']
 new_cols = ['street', 'postcode', 'sale_year', 'sale_date', 'nominal_price', 'retail_price_index', 'deflator',
@@ -44,18 +43,18 @@ def concatenate(folder):
 
 
 def from_xls():
-    xls = pd.ExcelFile('simd/datazones.xls')
+    xls = pd.ExcelFile('data/datazones.xls')
     dz_df = pd.read_excel(xls, 'Sheet1')
     dz_df = dz_df[['Postcode', 'DataZone']]
     dz_df.columns = ['postcode', 'datazone']
     return dz_df
 
 
-dataframe = concatenate(data_folder)
+dataframe = concatenate(prices_folder)
 datazone_df = from_xls()
 merged = pd.merge(dataframe, datazone_df, on='postcode')
 
-simd_df = pd.read_csv('simd/simd-overall-2004-2012-glasgow-v2.csv')
+simd_df = pd.read_csv('data/simd/simd-overall-2004-2012-glasgow-v2.csv')
 simd_df_04 = simd_df[['Datazone', 'overall_deprivation_rank_2004']]
 simd_df_04.columns = ['datazone', 'overall_deprivation_rank']
 simd_df_04['sale_year'] = 2004
