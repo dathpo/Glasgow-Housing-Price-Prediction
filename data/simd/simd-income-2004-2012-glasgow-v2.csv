@@ -1,0 +1,695 @@
+Datazone,Intermediate geography name,Multi-member ward name,2011 Scottish Parliamentary Constituencies,income_deprivation_rank_2004,income_deprivation_rank_2006,income_deprivation_rank_2009,income_deprivation_rank_2012,income_local_rank_2004,income_local_rank_2006,income_local_rank_2009,income_local_rank_2012
+S01003253,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,61,7,2,1,44,4,1,1
+S01003708,Drumchapel North,Drumchapel/Anniesland,Glasgow Anniesland,13,1,3,2,8,1,2,2
+S01003709,Drumry East,Drumchapel/Anniesland,Glasgow Anniesland,162,58,20,3,110,39,16,3
+S01003582,Possil Park,Canal,Glasgow Maryhill,31,10,9,5,22,7,8,4
+S01003564,Keppochhill,Canal,Glasgow Maryhill,5,12,8,6,3,9,7,5
+S01003402,Central Easterhouse,North East,Glasgow Baillieston,49,20,24,8,38,15,18,6
+S01003455,Craigend and Ruchazie,North East,Glasgow Baillieston,10,25,5,10,7,19,4,7
+S01003397,North Barlanark and Easterhouse South,Baillieston,Glasgow Baillieston,9,6,16,11,6,3,12,8
+S01003379,North Barlanark and Easterhouse South,Baillieston,Glasgow Baillieston,26,15,61,12,17,11,39,9
+S01003401,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,24,18,25,15,15,13,19,10
+S01003665,Maryhill East,Maryhill/Kelvin,Glasgow Maryhill,134,32,28,16,94,24,21,11
+S01003687,Milton East,Canal,Glasgow Maryhill,155,66,49,17,107,45,32,12
+S01003666,Milton West,Canal,Glasgow Maryhill,140,36,47,19,99,28,31,13
+S01003337,Old Shettleston and Parkhead North,East Centre,Glasgow Baillieston,97,13,18,21,71,10,14,14
+S01003706,Drumchapel South,Drumchapel/Anniesland,Glasgow Anniesland,62,65,55,22,45,44,36,15
+S01003049,Castlemilk,Linn,Glasgow Cathcart,91,125,40,23,67,79,27,16
+S01003296,Parkhead West and Barrowfield,Shettleston,Glasgow Shettleston,16,9,29,26,10,6,22,17
+S01003579,Keppochhill,Canal,Glasgow Maryhill,63,19,19,27,46,14,15,18
+S01003279,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,2,63,6,31,1,42,5,19
+S01003076,Carnwadric West,Newlands/Auldburn,Glasgow Cathcart,167,216,41,34,114,123,28,20
+S01003043,Glenwood North,Linn,Glasgow Cathcart,15,3,7,35,9,2,6,21
+S01003208,Braidfauld,Calton,Glasgow Shettleston,43,35,13,37,32,27,11,22
+S01003367,Govan and Linthouse,Govan,Glasgow Govan,73,38,21,39,54,30,17,23
+S01003217,Dalmarnock,Calton,Glasgow Shettleston,42,37,75,41,31,29,46,24
+S01003689,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,190,80,137,42,125,52,80,25
+S01003274,Laurieston and Tradeston,Southside Central,Glasgow Shettleston,98,130,308,44,72,82,154,26
+S01003595,Possil Park,Canal,Glasgow Maryhill,6,55,12,45,4,37,10,27
+S01003444,"Garthamlock, Auchinlea and Gartloch",North East,Glasgow Baillieston,139,68,37,46,98,47,26,28
+S01003047,Carmunnock South,Linn,Glasgow Cathcart,205,237,109,48,134,133,70,29
+S01003672,Milton East,Canal,Glasgow Maryhill,55,62,32,49,43,41,24,30
+S01003705,Drumchapel South,Drumchapel/Anniesland,Glasgow Anniesland,154,144,87,50,106,87,54,31
+S01003702,Drumchapel South,Drumchapel/Anniesland,Glasgow Anniesland,275,238,80,51,170,134,50,32
+S01003042,Glenwood North,Linn,Glasgow Cathcart,22,30,64,53,13,23,41,33
+S01003419,Craigend and Ruchazie,East Centre,Glasgow Baillieston,52,26,30,56,41,20,23,34
+S01003036,Glenwood South,Linn,Glasgow Cathcart,115,87,91,57,82,56,57,35
+S01003347,Carntyne West and Haghill,Calton,Glasgow Shettleston,107,8,82,58,78,5,52,36
+S01003273,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,78,28,60,59,57,21,38,37
+S01003617,Wyndford,Maryhill/Kelvin,Glasgow Maryhill,106,114,92,60,77,73,58,38
+S01003205,Dalmarnock,Calton,Glasgow Shettleston,7,40,77,63,5,31,47,39
+S01003471,Riddrie and Hogganfield,North East,Glasgow Springburn,45,82,96,64,34,53,61,40
+S01003287,Cardonald North,Craigton,Glasgow Pollok,110,83,181,67,80,54,102,41
+S01003293,Shettleston North,Shettleston,Glasgow Shettleston,138,178,248,68,97,107,125,42
+S01003462,"Garthamlock, Auchinlea and Gartloch",North East,Glasgow Baillieston,141,152,54,71,100,91,35,43
+S01003390,North Barlanark and Easterhouse South,Baillieston,Glasgow Baillieston,93,23,70,73,68,18,42,44
+S01003044,Glenwood North,Linn,Glasgow Cathcart,27,64,98,74,18,43,62,45
+S01003088,Nitshill,Greater Pollok,Glasgow Pollok,79,42,72,75,58,32,43,46
+S01003596,Wyndford,Maryhill/Kelvin,Glasgow Maryhill,441,209,228,78,225,118,120,47
+S01003515,Blackhill and Barmulloch East,North East,Glasgow Springburn,121,115,112,79,86,74,71,48
+S01003254,Dalmarnock,Calton,Glasgow Shettleston,25,33,58,82,16,25,37,49
+S01003482,Firhill,Hillhead,Glasgow Maryhill,184,106,50,87,124,66,33,50
+S01003140,Crookston South,Greater Pollok,Glasgow Pollok,83,146,176,88,61,88,98,51
+S01003256,Pollokshields West,Pollokshields,Glasgow Govan,101,94,27,89,73,59,20,52
+S01003404,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,158,208,108,93,109,117,69,53
+S01003309,Old Shettleston and Parkhead North,Shettleston,Glasgow Shettleston,87,22,74,94,64,17,45,54
+S01003716,Drumchapel North,Drumchapel/Anniesland,Glasgow Anniesland,30,69,95,95,21,48,60,55
+S01003562,Scotstoun South and West,Garscadden/Scotstounhill,Glasgow Kelvin,119,119,144,96,84,76,84,56
+S01003184,Pollok North and East,Craigton,Glasgow Pollok,113,162,133,98,81,97,78,57
+S01003711,Drumchapel North,Drumchapel/Anniesland,Glasgow Anniesland,32,103,63,99,23,65,40,58
+S01003251,Dalmarnock,Calton,Glasgow Shettleston,131,72,129,101,92,49,75,59
+S01003434,Central Easterhouse,North East,Glasgow Baillieston,236,147,227,102,150,89,119,60
+S01003435,Central Easterhouse,North East,Glasgow Baillieston,38,67,131,108,28,46,76,61
+S01003428,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,21,88,10,109,12,57,9,62
+S01003553,Keppochhill,Canal,Glasgow Maryhill,129,118,132,113,90,75,77,63
+S01003391,Dennistoun,East Centre,Glasgow Springburn,457,261,260,119,234,143,132,64
+S01003619,Wyndford,Maryhill/Kelvin,Glasgow Maryhill,439,175,99,120,224,104,63,65
+S01003374,Barlanark,Baillieston,Glasgow Baillieston,81,120,85,122,60,77,53,66
+S01003600,Wyndford,Maryhill/Kelvin,Glasgow Maryhill,410,262,194,124,214,144,104,67
+S01003500,Firhill,Hillhead,Glasgow Maryhill,152,164,36,125,105,98,25,68
+S01003690,Knightswood Park West,Drumchapel/Anniesland,Glasgow Anniesland,660,388,299,126,289,192,151,69
+S01003653,Milton West,Canal,Glasgow Maryhill,136,99,90,129,96,63,56,70
+S01003376,Barlanark,Baillieston,Glasgow Baillieston,135,123,159,130,95,78,89,71
+S01003567,Cowlairs and Port Dundas,Canal,Glasgow Maryhill,50,60,78,131,39,40,48,72
+S01003673,Maryhill West,Maryhill/Kelvin,Glasgow Maryhill,46,34,106,132,35,26,67,73
+S01003225,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,246,188,179,137,156,109,101,74
+S01003456,Central Easterhouse,North East,Glasgow Baillieston,4,11,42,138,2,8,29,75
+S01003336,Greenfield,Baillieston,Glasgow Baillieston,314,202,266,139,186,115,137,76
+S01003486,Riddrie and Hogganfield,North East,Glasgow Springburn,66,102,51,141,49,64,34,77
+S01003583,Blackhill and Barmulloch East,North East,Glasgow Springburn,303,295,404,142,180,162,188,78
+S01003246,Shettleston North,Shettleston,Glasgow Shettleston,397,256,119,143,210,142,72,79
+S01003052,Castlemilk,Linn,Glasgow Cathcart,288,273,356,145,174,150,171,80
+S01003601,Springburn East and Cowlairs,Springburn,Glasgow Springburn,313,301,158,148,185,165,88,81
+S01003314,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,168,16,140,151,115,12,83,82
+S01003343,Barlanark,Baillieston,Glasgow Baillieston,40,21,81,154,30,16,51,83
+S01003480,Whiteinch,Partick West,Glasgow Kelvin,208,212,178,158,135,120,100,84
+S01003356,Gallowgate North and Bellgrove,Calton,Glasgow Springburn,260,168,164,160,164,100,91,85
+S01003421,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,354,447,45,162,200,210,30,86
+S01003099,Nitshill,Greater Pollok,Glasgow Pollok,130,290,403,171,91,159,187,87
+S01003028,Glenwood South,Linn,Glasgow Cathcart,53,91,195,172,42,58,105,88
+S01003489,Blackhill and Barmulloch East,North East,Glasgow Springburn,74,56,79,175,55,38,49,89
+S01003331,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,96,77,105,180,70,51,66,90
+S01003572,Springburn,Springburn,Glasgow Springburn,229,174,177,181,147,103,99,91
+S01003646,Knightswood Park East,Garscadden/Scotstounhill,Glasgow Anniesland,72,223,73,184,53,125,44,92
+S01003717,Drumry East,Drumchapel/Anniesland,Glasgow Anniesland,126,177,135,189,88,106,79,93
+S01003414,Easterhouse East,North East,Glasgow Baillieston,307,176,387,192,183,105,182,94
+S01003194,Braidfauld,Shettleston,Glasgow Shettleston,454,452,313,194,232,212,155,95
+S01003388,Ibrox,Govan,Glasgow Govan,250,291,218,199,158,160,113,96
+S01003546,Cowlairs and Port Dundas,Canal,Glasgow Maryhill,266,280,204,203,168,155,110,97
+S01003313,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,33,594,298,205,24,259,150,98
+S01003707,Drumry West,Drumchapel/Anniesland,Glasgow Anniesland,17,29,147,207,11,22,86,99
+S01003483,Craigend and Ruchazie,North East,Glasgow Baillieston,555,254,386,208,267,140,181,100
+S01003565,Springburn,Springburn,Glasgow Springburn,264,229,162,214,167,128,90,101
+S01003549,Petershill,Springburn,Glasgow Springburn,166,159,259,217,113,96,131,102
+S01003557,Barmulloch,North East,Glasgow Springburn,232,158,102,220,149,95,65,103
+S01003342,Gallowgate North and Bellgrove,Calton,Glasgow Shettleston,80,96,93,231,59,61,59,104
+S01003670,Maryhill East,Maryhill/Kelvin,Glasgow Maryhill,212,213,167,233,137,121,94,105
+S01003354,Old Shettleston and Parkhead North,East Centre,Glasgow Baillieston,353,477,448,234,199,221,206,106
+S01003048,Castlemilk,Linn,Glasgow Cathcart,416,361,536,239,216,182,225,107
+S01003416,City Centre East,Anderston/City,Glasgow Springburn,491,310,268,240,250,169,138,108
+S01003160,Crookston North,Greater Pollok,Glasgow Pollok,255,277,547,241,162,152,227,109
+S01003389,Carntyne West and Haghill,East Centre,Glasgow Springburn,170,112,173,244,116,72,96,110
+S01003704,Drumry West,Drumchapel/Anniesland,Glasgow Anniesland,298,278,395,245,178,153,184,111
+S01003439,City Centre East,Anderston/City,Glasgow Kelvin,453,249,269,249,231,137,139,112
+S01003302,Laurieston and Tradeston,Southside Central,Glasgow Shettleston,69,46,354,250,50,34,170,113
+S01003182,Pollok North and East,Greater Pollok,Glasgow Pollok,243,219,495,252,153,124,215,114
+S01003611,Springburn East and Cowlairs,Springburn,Glasgow Springburn,211,266,304,254,136,146,152,115
+S01003232,Laurieston and Tradeston,Southside Central,Glasgow Shettleston,105,108,219,256,76,68,114,116
+S01003056,Darnley East,Greater Pollok,Glasgow Pollok,108,48,166,258,79,35,93,117
+S01003226,Braidfauld,Calton,Glasgow Shettleston,143,207,212,261,102,116,111,118
+S01003441,Govan and Linthouse,Govan,Glasgow Govan,219,97,442,263,142,62,203,119
+S01003291,Penilee,Craigton,Glasgow Pollok,398,292,203,264,211,161,109,120
+S01003418,Govan and Linthouse,Govan,Glasgow Govan,181,170,249,265,122,101,126,121
+S01003603,Knightswood East,Garscadden/Scotstounhill,Glasgow Anniesland,300,319,257,267,179,173,130,122
+S01003263,Parkhead West and Barrowfield,Calton,Glasgow Shettleston,70,191,256,272,51,110,129,123
+S01003270,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,525,186,408,282,258,108,190,124
+S01003663,Maryhill West,Maryhill/Kelvin,Glasgow Maryhill,334,149,363,289,191,90,175,125
+S01003033,Glenwood South,Linn,Glasgow Cathcart,204,215,238,290,133,122,123,126
+S01003610,Yoker South,Garscadden/Scotstounhill,Glasgow Anniesland,455,338,289,292,233,176,148,127
+S01003297,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,263,303,499,294,166,167,217,128
+S01003369,Old Shettleston and Parkhead North,East Centre,Glasgow Baillieston,539,421,577,296,261,201,238,129
+S01003245,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,146,95,202,297,103,60,108,130
+S01003202,Toryglen and Oatlands,Southside Central,Glasgow Shettleston,215,126,139,298,139,80,82,131
+S01003627,Springburn East and Cowlairs,Springburn,Glasgow Springburn,224,471,255,302,144,218,128,132
+S01003158,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,29,85,4,304,20,55,3,133
+S01003364,Govan and Linthouse,Govan,Glasgow Govan,76,44,278,308,56,33,143,134
+S01003563,Barmulloch,North East,Glasgow Springburn,464,567,346,311,237,248,167,135
+S01003398,Easterhouse East,North East,Glasgow Baillieston,535,525,578,314,259,236,239,136
+S01003030,Glenwood South,Linn,Glasgow Cathcart,36,330,345,315,26,175,166,137
+S01003605,Knightswood East,Garscadden/Scotstounhill,Glasgow Anniesland,304,269,168,322,181,147,95,138
+S01003584,Scotstoun South and West,Garscadden/Scotstounhill,Glasgow Kelvin,378,513,107,324,204,233,68,139
+S01003064,Carnwadric West,Newlands/Auldburn,Glasgow Cathcart,225,194,320,325,145,111,159,140
+S01003680,Milton East,Canal,Glasgow Maryhill,196,165,234,329,129,99,122,141
+S01003035,Glenwood South,Linn,Glasgow Cathcart,103,272,281,335,75,149,145,142
+S01003107,Crookston South,Greater Pollok,Glasgow Pollok,194,472,415,337,128,219,194,143
+S01003055,Carnwadric West,Newlands/Auldburn,Glasgow Cathcart,180,255,330,343,121,141,163,144
+S01003221,Cardonald South and East,Craigton,Glasgow Pollok,267,364,265,346,169,183,136,145
+S01003326,Cardonald North,Craigton,Glasgow Pollok,797,390,416,348,316,194,195,146
+S01003512,Craigend and Ruchazie,North East,Glasgow Baillieston,431,389,329,352,219,193,162,147
+S01003372,"Cranhill, Lightburn and Queenslie South",Baillieston,Glasgow Baillieston,287,391,226,353,173,195,118,148
+S01003629,Possil Park,Canal,Glasgow Maryhill,305,349,468,356,182,181,210,149
+S01003039,Darnley East,Greater Pollok,Glasgow Pollok,238,224,201,358,151,126,107,150
+S01003411,Drumoyne and Shieldhall,Govan,Glasgow Govan,459,424,666,359,235,203,256,151
+S01003543,Keppochhill,Canal,Glasgow Maryhill,175,155,88,360,118,93,55,152
+S01003111,Nitshill,Greater Pollok,Glasgow Pollok,254,401,366,361,161,197,177,153
+S01003301,Tollcross,Shettleston,Glasgow Shettleston,252,341,315,369,160,178,156,154
+S01003084,Nitshill,Greater Pollok,Glasgow Pollok,381,311,365,370,206,170,176,155
+S01003386,Drumoyne and Shieldhall,Govan,Glasgow Govan,869,551,739,372,330,244,273,156
+S01003269,Parkhead East and Braidfauld North,Shettleston,Glasgow Shettleston,545,613,725,373,264,263,268,157
+S01003299,Parkhead East and Braidfauld North,Shettleston,Glasgow Shettleston,28,300,17,385,19,164,13,158
+S01003267,Shettleston North,Shettleston,Glasgow Shettleston,848,600,639,386,326,261,249,159
+S01003167,Pollok South and West,Greater Pollok,Glasgow Pollok,202,599,757,387,132,260,279,160
+S01003424,Drumoyne and Shieldhall,Govan,Glasgow Govan,572,395,388,390,273,196,183,161
+S01003644,Springburn,Springburn,Glasgow Springburn,511,636,359,394,253,268,173,162
+S01003718,Drumry East,Drumchapel/Anniesland,Glasgow Anniesland,128,339,243,395,89,177,124,163
+S01003247,Parkhead East and Braidfauld North,Calton,Glasgow Shettleston,231,373,644,397,148,186,250,164
+S01003352,Barlanark,Baillieston,Glasgow Baillieston,309,128,153,399,184,81,87,165
+S01003223,Braidfauld,Shettleston,Glasgow Shettleston,85,369,546,400,63,185,226,166
+S01003082,Nitshill,Greater Pollok,Glasgow Pollok,117,236,360,401,83,132,174,167
+S01003333,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,95,466,512,403,69,216,219,168
+S01003493,Whiteinch,Partick West,Glasgow Kelvin,467,385,325,406,238,191,161,169
+S01003045,Darnley East,Greater Pollok,Glasgow Pollok,177,327,349,408,119,174,168,170
+S01003040,Castlemilk,Linn,Glasgow Cathcart,784,874,779,415,315,312,283,171
+S01003634,Balornock,North East,Glasgow Springburn,407,440,443,418,213,207,204,172
+S01003431,Riddrie and Hogganfield,East Centre,Glasgow Springburn,621,575,558,422,283,250,230,173
+S01003508,Partick,Partick West,Glasgow Kelvin,1023,444,406,428,353,208,189,174
+S01003640,Milton West,Canal,Glasgow Maryhill,425,348,567,433,218,180,234,175
+S01003026,Carmunnock South,Linn,Glasgow Cathcart,1389,1033,283,435,401,337,146,176
+S01003206,Govanhill West,Southside Central,Glasgow Shettleston,602,490,459,440,279,227,209,177
+S01003353,Carntyne West and Haghill,Calton,Glasgow Springburn,201,235,317,447,131,131,157,178
+S01003244,Baillieston East,Baillieston,Glasgow Baillieston,680,484,402,457,291,223,186,179
+S01003175,Govanhill East and Aikenhead,Southside Central,Glasgow Shettleston,563,409,224,458,269,198,116,180
+S01003029,Carmunnock South,Linn,Glasgow Cathcart,44,143,261,459,33,86,133,181
+S01003150,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,132,111,192,466,93,71,103,182
+S01003032,Glenwood South,Linn,Glasgow Cathcart,214,586,503,469,138,254,218,183
+S01003185,Govanhill East and Aikenhead,Southside Central,Glasgow Shettleston,321,253,121,476,188,139,73,184
+S01003387,Carntyne West and Haghill,East Centre,Glasgow Springburn,411,232,297,481,215,129,149,185
+S01003657,Milton East,Canal,Glasgow Maryhill,421,383,451,484,217,190,207,186
+S01003443,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,48,109,165,486,37,69,92,187
+S01003519,Firhill,Hillhead,Glasgow Maryhill,286,199,368,490,172,114,178,188
+S01003121,Crookston South,Greater Pollok,Glasgow Pollok,228,410,344,492,146,199,165,189
+S01003561,Keppochhill,Canal,Glasgow Maryhill,283,435,575,493,171,205,236,190
+S01003490,Woodside,Hillhead,Glasgow Maryhill,470,588,411,504,240,255,192,191
+S01003518,Whiteinch,Partick West,Glasgow Kelvin,657,481,425,505,288,222,199,192
+S01003701,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,919,486,518,510,335,224,221,193
+S01003290,Tollcross,Shettleston,Glasgow Shettleston,1580,1221,924,512,419,362,314,194
+S01003531,Scotstoun South and West,Garscadden/Scotstounhill,Glasgow Kelvin,435,464,470,513,221,215,212,195
+S01003636,Milton West,Canal,Glasgow Maryhill,438,467,655,517,223,217,254,196
+S01003712,Drumry West,Drumchapel/Anniesland,Glasgow Anniesland,183,157,196,519,123,94,106,197
+S01003340,Greenfield,Baillieston,Glasgow Baillieston,903,750,654,520,333,287,253,198
+S01003615,Yoker South,Garscadden/Scotstounhill,Glasgow Anniesland,102,473,456,523,74,220,208,199
+S01003650,Maryhill West,Maryhill/Kelvin,Glasgow Maryhill,605,296,285,525,280,163,147,200
+S01003307,Cardonald North,Craigton,Glasgow Pollok,541,591,707,527,263,258,264,201
+S01003104,Pollokshaws,Newlands/Auldburn,Glasgow Cathcart,930,662,799,529,337,274,289,202
+S01003190,Govanhill East and Aikenhead,Southside Central,Glasgow Shettleston,516,566,264,534,255,247,135,203
+S01003459,Craigend and Ruchazie,North East,Glasgow Springburn,296,534,560,535,177,238,232,204
+S01003237,Baillieston West,Baillieston,Glasgow Baillieston,540,829,754,542,262,302,277,205
+S01003408,Anderston,Anderston/City,Glasgow Kelvin,156,197,138,544,108,112,81,206
+S01003248,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,514,233,221,550,254,130,115,207
+S01003713,Drumry East,Drumchapel/Anniesland,Glasgow Anniesland,165,589,781,561,112,256,284,208
+S01003289,Parkhead East and Braidfauld North,Shettleston,Glasgow Shettleston,240,142,1926,569,152,85,432,209
+S01003083,Nitshill,Greater Pollok,Glasgow Pollok,595,313,417,571,277,171,196,210
+S01003072,Carnwadric West,Newlands/Auldburn,Glasgow Cathcart,509,736,435,572,252,286,201,211
+S01003142,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,452,264,440,575,230,145,202,212
+S01003679,Knightswood West,Garscadden/Scotstounhill,Glasgow Anniesland,490,579,530,585,249,251,224,213
+S01003457,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,122,251,357,591,87,138,172,214
+S01003590,Yoker South,Garscadden/Scotstounhill,Glasgow Anniesland,390,198,350,596,208,113,169,215
+S01003396,Govan and Linthouse,Govan,Glasgow Govan,164,308,250,599,111,168,127,216
+S01003652,Maryhill East,Maryhill/Kelvin,Glasgow Maryhill,463,847,478,601,236,306,213,217
+S01003132,Pollokshaws,Newlands/Auldburn,Glasgow Govan,316,423,806,609,187,202,290,218
+S01003272,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,39,210,273,611,29,119,142,219
+S01003654,Yoker North,Garscadden/Scotstounhill,Glasgow Anniesland,218,241,271,612,141,135,140,220
+S01003181,Pollok North and East,Craigton,Glasgow Pollok,445,508,791,614,226,230,287,221
+S01003363,Greenfield,Baillieston,Glasgow Baillieston,859,919,711,622,328,325,265,222
+S01003621,Possil Park,Canal,Glasgow Maryhill,618,539,706,625,282,240,263,223
+S01003412,Govan and Linthouse,Govan,Glasgow Govan,345,794,782,627,196,296,285,224
+S01003361,Greenfield,Baillieston,Glasgow Baillieston,756,584,429,639,310,252,200,225
+S01003538,Blackhill and Barmulloch East,North East,Glasgow Springburn,449,519,370,640,229,235,179,226
+S01003442,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,71,110,225,649,52,70,117,227
+S01003655,Balornock,North East,Glasgow Springburn,337,376,469,652,192,187,211,228
+S01003585,Ruchill,Maryhill/Kelvin,Glasgow Maryhill,474,675,998,657,243,276,326,229
+S01003427,Carntyne,East Centre,Glasgow Springburn,718,653,658,658,298,271,255,230
+S01003467,Craigend and Ruchazie,North East,Glasgow Baillieston,745,720,776,673,305,285,282,231
+S01003440,Riddrie and Hogganfield,East Centre,Glasgow Springburn,906,773,1001,678,334,292,327,232
+S01003357,Ibrox,Govan,Glasgow Govan,35,50,101,681,25,36,64,233
+S01003586,Scotstoun North and East,Garscadden/Scotstounhill,Glasgow Kelvin,1189,1723,627,683,372,425,246,234
+S01003664,Maryhill East,Maryhill/Kelvin,Glasgow Maryhill,594,697,559,687,276,279,231,235
+S01003213,Braidfauld,Shettleston,Glasgow Shettleston,775,751,496,688,313,288,216,236
+S01003262,Tollcross,Shettleston,Glasgow Shettleston,401,279,341,691,212,154,164,237
+S01003384,Drumoyne and Shieldhall,Govan,Glasgow Govan,1018,1034,1178,692,352,338,348,238
+S01003332,Barlanark,Baillieston,Glasgow Baillieston,247,494,645,702,157,229,251,239
+S01003472,Sighthill,Springburn,Glasgow Springburn,519,678,410,708,257,277,191,240
+S01003306,Craigton,Govan,Glasgow Pollok,1191,859,927,710,373,307,316,241
+S01003400,Carntyne,East Centre,Glasgow Springburn,754,889,899,716,309,319,310,242
+S01003077,Carnwadric East,Newlands/Auldburn,Glasgow Cathcart,810,1083,870,717,319,348,303,243
+S01003362,Penilee,Craigton,Glasgow Pollok,700,768,788,723,295,290,286,244
+S01003349,Drumoyne and Shieldhall,Govan,Glasgow Govan,51,107,321,724,40,67,160,245
+S01003093,Newlands,Newlands/Auldburn,Glasgow Cathcart,624,535,554,734,284,239,229,246
+S01003573,Springburn,Springburn,Glasgow Springburn,747,661,597,735,306,273,241,247
+S01003656,Maryhill East,Maryhill/Kelvin,Glasgow Maryhill,357,620,724,739,201,265,267,248
+S01003228,Braidfauld,Shettleston,Glasgow Shettleston,489,445,888,746,248,209,308,249
+S01003710,Summerston Central and West,Canal,Glasgow Maryhill,471,287,233,753,241,158,121,250
+S01003580,Springburn East and Cowlairs,Springburn,Glasgow Springburn,583,630,737,756,274,267,272,251
+S01003316,Ibrox East and Cessnock,Govan,Glasgow Govan,570,906,792,761,272,322,288,252
+S01003592,Ruchill,Canal,Glasgow Maryhill,446,717,866,767,227,283,302,253
+S01003523,Craigend and Ruchazie,North East,Glasgow Baillieston,340,302,421,772,194,166,198,254
+S01003198,Govanhill East and Aikenhead,Southside Central,Glasgow Shettleston,295,368,272,780,176,184,141,255
+S01003571,Scotstoun South and West,Garscadden/Scotstounhill,Glasgow Kelvin,344,781,856,781,195,294,300,256
+S01003703,Drumchapel South,Drumchapel/Anniesland,Glasgow Anniesland,714,640,807,790,297,269,291,257
+S01003377,"Cranhill, Lightburn and Queenslie South",Baillieston,Glasgow Baillieston,798,719,936,791,317,284,319,258
+S01003312,Penilee,Craigton,Glasgow Pollok,192,343,566,802,126,179,233,259
+S01003714,Drumchapel North,Drumchapel/Anniesland,Glasgow Anniesland,368,454,926,806,203,213,315,260
+S01003281,Tollcross,Shettleston,Glasgow Shettleston,347,275,1393,808,197,151,375,261
+S01003191,Govanhill West,Southside Central,Glasgow Shettleston,876,436,629,809,331,206,247,262
+S01003378,Carntyne West and Haghill,East Centre,Glasgow Springburn,258,489,519,817,163,226,222,263
+S01003540,Keppochhill,Canal,Glasgow Maryhill,193,76,307,822,127,50,153,264
+S01003346,Craigton,Govan,Glasgow Govan,626,807,685,828,285,298,258,265
+S01003630,Knightswood Park West,Garscadden/Scotstounhill,Glasgow Anniesland,771,1118,954,831,312,351,321,266
+S01003575,Scotstoun North and East,Garscadden/Scotstounhill,Glasgow Kelvin,323,487,412,833,189,225,193,267
+S01003551,Petershill,Springburn,Glasgow Springburn,538,559,887,835,260,245,307,268
+S01003628,Balornock,North East,Glasgow Springburn,753,843,852,848,308,305,298,269
+S01003604,Ruchill,Maryhill/Kelvin,Glasgow Maryhill,726,837,916,852,302,303,313,270
+S01003284,Craigton,Govan,Glasgow Pollok,1337,963,1195,857,391,329,352,271
+S01003498,Broomhill,Partick West,Glasgow Kelvin,1268,1052,1065,858,380,341,335,272
+S01003624,Possil Park,Canal,Glasgow Maryhill,475,693,735,860,244,278,271,273
+S01003422,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,447,420,618,863,228,200,244,274
+S01003275,Shettleston North,Shettleston,Glasgow Shettleston,1004,656,637,867,350,272,248,275
+S01003128,Mount Florida,Langside,Glasgow Cathcart,1483,1182,929,874,408,358,317,276
+S01003450,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,983,560,371,877,345,246,180,277
+S01003215,Pollok North and East,Craigton,Glasgow Pollok,477,1075,620,883,245,347,245,278
+S01003494,Woodside,Hillhead,Glasgow Maryhill,1005,585,583,885,351,253,240,279
+S01003351,Ibrox East and Cessnock,Govan,Glasgow Govan,338,603,853,929,193,262,299,280
+S01003578,Barmulloch,North East,Glasgow Springburn,47,135,263,934,36,83,134,281
+S01003294,Craigton,Govan,Glasgow Pollok,1380,975,881,937,399,331,305,282
+S01003394,Easterhouse East,North East,Glasgow Baillieston,564,886,1263,942,270,317,364,283
+S01003488,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,88,141,216,948,65,84,112,284
+S01003466,Hillhead,Partick West,Glasgow Kelvin,518,271,401,951,256,148,185,285
+S01003577,Barmulloch,North East,Glasgow Springburn,636,547,775,954,286,242,281,286
+S01003204,Pollok North and East,Craigton,Glasgow Pollok,472,860,1002,962,242,308,328,287
+S01003266,Tollcross,Shettleston,Glasgow Shettleston,1076,841,815,966,355,304,293,288
+S01003696,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,1135,1020,1225,975,365,335,356,289
+S01003101,Crookston South,Greater Pollok,Glasgow Pollok,478,619,700,981,246,264,261,290
+S01003373,City Centre West,Anderston/City,Glasgow Kelvin,293,227,571,984,175,127,235,291
+S01003355,Gallowgate North and Bellgrove,Calton,Glasgow Springburn,814,918,860,986,320,324,301,292
+S01003677,Milton East,Canal,Glasgow Maryhill,942,892,606,996,339,320,242,293
+S01003152,Battlefield,Southside Central,Glasgow Cathcart,1542,1349,1152,1009,414,377,346,294
+S01003537,Firhill,Canal,Glasgow Maryhill,851,649,933,1011,327,270,318,295
+S01003448,Riddrie and Hogganfield,East Centre,Glasgow Springburn,1106,949,908,1012,360,328,312,296
+S01003651,Knightswood Park East,Garscadden/Scotstounhill,Glasgow Anniesland,1104,1298,963,1018,359,370,324,297
+S01003678,Yoker North,Garscadden/Scotstounhill,Glasgow Anniesland,1180,1038,1135,1029,368,339,343,298
+S01003350,Penilee,Craigton,Glasgow Pollok,261,460,883,1037,165,214,306,299
+S01003249,Parkhead East and Braidfauld North,Shettleston,Glasgow Shettleston,1218,1489,1063,1038,374,395,334,300
+S01003463,Sighthill,Springburn,Glasgow Springburn,479,514,494,1039,247,234,214,301
+S01003686,Summerston Central and West,Maryhill/Kelvin,Glasgow Maryhill,584,666,1003,1040,275,275,329,302
+S01003134,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,352,590,751,1042,198,257,275,303
+S01003541,Petershill,Springburn,Glasgow Springburn,328,448,319,1044,190,211,158,304
+S01003334,Penilee,Craigton,Glasgow Pollok,724,974,873,1047,300,330,304,305
+S01003606,Springburn,Springburn,Glasgow Springburn,1415,1362,1217,1050,403,381,355,306
+S01003286,Kingston West and Dumbreck,Pollokshields,Glasgow Govan,750,765,755,1053,307,289,278,307
+S01003310,Cardonald North,Craigton,Glasgow Pollok,1585,1453,1474,1065,420,388,387,308
+S01003688,Summerston North,Maryhill/Kelvin,Glasgow Maryhill,1003,1069,1226,1066,349,346,357,309
+S01003693,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,1001,771,949,1074,347,291,320,310
+S01003231,Baillieston West,Baillieston,Glasgow Baillieston,864,1064,1194,1076,329,344,351,311
+S01003598,Barmulloch,North East,Glasgow Springburn,1185,1172,1229,1084,370,357,358,312
+S01003214,Baillieston West,Baillieston,Glasgow Baillieston,1719,1399,1143,1086,429,385,345,313
+S01003671,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,469,699,1055,1086,239,281,333,313
+S01003695,Summerston North,Maryhill/Kelvin,Glasgow Maryhill,929,875,892,1093,336,313,309,315
+S01003138,Pollokshaws,Newlands/Auldburn,Glasgow Govan,835,1005,839,1096,324,333,297,316
+S01003393,Carntyne,East Centre,Glasgow Springburn,600,698,1039,1108,278,280,331,317
+S01003162,Carmyle and Mount Vernon South,Shettleston,Glasgow Baillieston,558,526,752,1120,268,237,276,318
+S01003327,Kinning Park and Festival Park,Govan,Glasgow Govan,548,924,647,1128,265,326,252,319
+S01003635,Anniesland East,Drumchapel/Anniesland,Glasgow Anniesland,2147,1361,1575,1130,470,380,397,320
+S01003220,Pollokshields East,Pollokshields,Glasgow Govan,1270,1166,279,1134,381,356,144,321
+S01003159,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,65,171,145,1138,48,102,85,322
+S01003662,Knightswood Park West,Garscadden/Scotstounhill,Glasgow Anniesland,569,1043,728,1139,271,340,269,323
+S01003639,Knightswood West,Garscadden/Scotstounhill,Glasgow Anniesland,1295,1243,1136,1141,386,364,344,324
+S01003308,Penilee,Craigton,Glasgow Pollok,647,877,746,1142,287,315,274,325
+S01003445,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,120,281,680,1166,85,156,257,326
+S01003144,Crookston North,Greater Pollok,Glasgow Pollok,1083,887,812,1184,357,318,292,327
+S01003239,Cardonald South and East,Craigton,Glasgow Pollok,1923,1671,1197,1186,451,418,353,328
+S01003684,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,778,822,955,1188,314,300,322,329
+S01003669,Milton West,Canal,Glasgow Maryhill,692,885,822,1190,292,316,294,330
+S01003407,Carntyne,East Centre,Glasgow Springburn,1292,1355,1504,1212,385,379,390,331
+S01003060,Glenwood North,Linn,Glasgow Cathcart,90,510,829,1214,66,231,295,332
+S01003383,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,1127,1190,1132,1219,362,359,342,333
+S01003046,Glenwood North,Linn,Glasgow Cathcart,723,977,1424,1231,299,332,381,334
+S01003345,Hillington,Craigton,Glasgow Pollok,2326,1571,1290,1232,487,404,366,335
+S01003413,"Cranhill, Lightburn and Queenslie South",East Centre,Glasgow Baillieston,392,550,701,1251,209,243,262,336
+S01003108,Cathcart,Langside,Glasgow Cathcart,1720,2003,1439,1253,430,454,383,337
+S01003599,Possil Park,Canal,Glasgow Maryhill,826,573,717,1255,323,249,266,338
+S01003405,Easterhouse East,North East,Glasgow Baillieston,1186,1476,1670,1265,371,392,408,339
+S01003461,Riddrie and Hogganfield,East Centre,Glasgow Springburn,956,1313,1408,1280,341,372,378,340
+S01003674,Knightswood East,Garscadden/Scotstounhill,Glasgow Anniesland,1277,1482,1303,1284,382,393,369,341
+S01003255,Cardonald South and East,Craigton,Glasgow Pollok,1434,1628,1653,1287,405,410,405,342
+S01003692,Blairdardie East,Drumchapel/Anniesland,Glasgow Anniesland,1367,1317,1257,1293,397,373,362,343
+S01003188,Govanhill West,Southside Central,Glasgow Shettleston,761,876,833,1301,311,314,296,344
+S01003145,Carmyle and Mount Vernon South,Shettleston,Glasgow Baillieston,1345,1279,1402,1303,394,367,377,345
+S01003642,Knightswood East,Garscadden/Scotstounhill,Glasgow Anniesland,2027,1608,1414,1310,462,408,380,346
+S01003608,Yoker South,Garscadden/Scotstounhill,Glasgow Anniesland,837,1125,1043,1322,325,352,332,347
+S01003200,Govanhill West,Southside Central,Glasgow Shettleston,1131,1011,1123,1326,363,334,340,348
+S01003458,"Roystonhill, Blochairn, and Provanmill",Springburn,Glasgow Springburn,608,871,1124,1338,281,311,341,349
+S01003051,Darnley North,Greater Pollok,Glasgow Pollok,380,493,515,1345,205,228,220,350
+S01003475,Woodside,Hillhead,Glasgow Maryhill,694,943,1192,1349,293,327,350,351
+S01003216,Cardonald West and Central,Craigton,Glasgow Pollok,2551,2073,1688,1363,502,463,410,352
+S01003243,Cardonald West and Central,Craigton,Glasgow Pollok,2056,1961,1959,1382,464,452,433,353
+S01003135,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,979,1296,1448,1387,344,369,384,354
+S01003322,Ibrox East and Cessnock,Govan,Glasgow Govan,1111,823,729,1390,361,301,270,355
+S01003602,Balornock,North East,Glasgow Springburn,1344,1281,1292,1401,393,368,367,356
+S01003161,Crookston North,Greater Pollok,Glasgow Pollok,1328,1191,1306,1411,389,360,370,357
+S01003469,Glasgow Harbour and  Partick South,Partick West,Glasgow Kelvin,1769,1107,903,1418,433,349,311,358
+S01003277,Baillieston East,Baillieston,Glasgow Baillieston,1284,1397,1516,1452,384,384,391,359
+S01003271,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,1133,1110,1241,1463,364,350,360,360
+S01003607,Balornock,North East,Glasgow Springburn,1157,1432,1764,1475,367,387,418,361
+S01003426,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,1267,1056,1386,1499,379,342,374,362
+S01003645,Knightswood Park West,Garscadden/Scotstounhill,Glasgow Anniesland,1260,1717,1784,1511,378,424,421,363
+S01003473,Woodside,Hillhead,Glasgow Maryhill,1002,791,1179,1517,348,295,349,364
+S01003070,Carnwadric East,Newlands/Auldburn,Glasgow Cathcart,1992,2192,1724,1519,458,471,411,365
+S01003454,Woodlands,Hillhead,Glasgow Maryhill,1070,1584,529,1522,354,406,223,366
+S01003643,Maryhill West,Maryhill/Kelvin,Glasgow Maryhill,696,2783,2796,1528,294,511,506,367
+S01003492,Cowlairs and Port Dundas,Springburn,Glasgow Springburn,730,710,1072,1533,304,282,336,368
+S01003495,Sighthill,Springburn,Glasgow Springburn,725,1734,1271,1541,301,429,365,369
+S01003075,Kingspark South,Linn,Glasgow Cathcart,2741,2071,1352,1550,516,462,371,370
+S01003268,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,1149,1144,1294,1555,366,354,368,371
+S01003118,Pollokshaws,Newlands/Auldburn,Glasgow Govan,217,285,122,1561,140,157,74,372
+S01003535,Whiteinch,Partick West,Glasgow Kelvin,990,1250,1583,1566,346,365,398,373
+S01003339,Hillington,Craigton,Glasgow Pollok,2360,1517,1910,1567,491,397,428,374
+S01003365,Ibrox,Govan,Glasgow Govan,244,544,962,1584,154,241,323,375
+S01003381,Carntyne West and Haghill,East Centre,Glasgow Springburn,1929,1763,1483,1586,452,432,388,376
+S01003218,Cardonald South and East,Craigton,Glasgow Pollok,1966,1743,1734,1587,457,431,414,377
+S01003147,Crookston North,Greater Pollok,Glasgow Pollok,1828,1868,1843,1589,439,443,426,378
+S01003203,Mosspark,Craigton,Glasgow Pollok,2057,2005,2042,1595,465,456,441,379
+S01003057,Castlemilk,Linn,Glasgow Cathcart,3381,2682,1727,1637,564,507,413,380
+S01003499,Partick,Partick West,Glasgow Kelvin,2252,1724,2142,1640,481,426,449,381
+S01003090,Merrylee and Millbrae,Newlands/Auldburn,Glasgow Cathcart,2451,2302,1851,1644,495,481,427,382
+S01003700,Summerston North,Maryhill/Kelvin,Glasgow Maryhill,1807,1869,1967,1651,437,444,435,383
+S01003668,Anniesland West,Garscadden/Scotstounhill,Glasgow Anniesland,943,1157,1533,1653,340,355,394,384
+S01003092,Carnwadric East,Newlands/Auldburn,Glasgow Cathcart,1520,1844,1369,1654,412,441,372,385
+S01003681,Knightswood Park West,Garscadden/Scotstounhill,Glasgow Anniesland,1772,1575,1558,1663,434,405,395,386
+S01003335,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,1182,1067,1623,1668,369,345,402,387
+S01003116,Cathcart,Langside,Glasgow Cathcart,1612,1660,1726,1676,421,413,412,388
+S01003178,Mosspark,Craigton,Glasgow Pollok,364,809,1375,1682,202,299,373,389
+S01003622,Knightswood East,Garscadden/Scotstounhill,Glasgow Anniesland,1259,1350,1400,1701,377,378,376,390
+S01003238,Cardonald West and Central,Craigton,Glasgow Pollok,2955,2567,2153,1714,534,497,450,391
+S01003122,Toryglen and Oatlands,Southside Central,Glasgow Rutherglen,1090,1264,1430,1734,358,366,382,392
+S01003685,Yoker North,Garscadden/Scotstounhill,Glasgow Anniesland,1613,1971,1262,1737,422,453,363,393
+S01003375,Drumoyne and Shieldhall,Govan,Glasgow Govan,1708,1669,1493,1747,427,417,389,394
+S01003199,Shettleston South,Shettleston,Glasgow Shettleston,2480,1665,1651,1772,498,415,404,395
+S01003593,Scotstoun South and West,Garscadden/Scotstounhill,Glasgow Anniesland,822,912,1213,1777,321,323,354,396
+S01003227,Pollokshields East,Pollokshields,Glasgow Govan,1356,1730,576,1783,395,427,237,397
+S01003069,Carnwadric East,Newlands/Auldburn,Glasgow Cathcart,1300,1542,2035,1795,387,401,440,398
+S01003165,Govanhill East and Aikenhead,Southside Central,Glasgow Shettleston,1761,1483,1469,1800,432,394,386,399
+S01003236,Pollokshields West,Pollokshields,Glasgow Govan,706,1768,419,1802,296,434,197,400
+S01003189,Govanhill West,Southside Central,Glasgow Shettleston,1513,1932,1161,1814,411,450,347,401
+S01003647,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,1836,1663,1526,1826,442,414,392,402
+S01003264,Mosspark,Govan,Glasgow Pollok,2258,2083,1598,1832,482,464,400,403
+S01003098,Cathcart,Langside,Glasgow Cathcart,1323,2184,1970,1833,388,470,436,404
+S01003317,Barlanark,Baillieston,Glasgow Baillieston,3273,2912,2532,1834,555,520,484,405
+S01003054,Castlemilk,Linn,Glasgow Cathcart,2203,1469,1672,1836,473,390,409,406
+S01003637,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,1707,1348,1411,1849,426,376,379,407
+S01003698,Blairdardie West,Drumchapel/Anniesland,Glasgow Anniesland,2042,1955,2576,1856,463,451,488,408
+S01003315,Kinning Park and Festival Park,Govan,Glasgow Govan,1449,1802,1610,1868,406,436,401,409
+S01003105,Kingspark North,Langside,Glasgow Rutherglen,2102,2658,2420,1872,468,504,475,410
+S01003392,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,1486,1509,2177,1902,409,396,451,411
+S01003222,Pollokshields East,Pollokshields,Glasgow Govan,899,1539,616,1905,332,400,243,412
+S01003280,Kingston West and Dumbreck,Govan,Glasgow Govan,2630,2285,1835,1908,509,480,424,413
+S01003117,Battlefield,Langside,Glasgow Cathcart,2751,2267,2434,1911,518,478,476,414
+S01003534,Petershill,Springburn,Glasgow Springburn,1384,1889,2478,1929,400,445,479,415
+S01003481,Partick,Partick West,Glasgow Kelvin,1837,1532,2014,1941,443,398,437,416
+S01003207,Pollokshields East,Pollokshields,Glasgow Govan,1280,1678,691,1947,383,419,259,417
+S01003126,Pollokshaws,Newlands/Auldburn,Glasgow Govan,142,317,2894,1957,101,172,514,418
+S01003063,Castlemilk,Linn,Glasgow Cathcart,2600,2693,2328,1968,505,508,461,419
+S01003305,Shettleston North,Baillieston,Glasgow Baillieston,4047,3748,2331,1977,602,574,462,420
+S01003420,North Barlanark and Easterhouse South,North East,Glasgow Baillieston,37,154,447,1985,27,92,205,421
+S01003242,Kingston West and Dumbreck,Govan,Glasgow Govan,1861,1827,2213,1987,445,438,453,422
+S01003174,Govanhill West,Southside Central,Glasgow Shettleston,1338,1233,551,1993,392,363,228,423
+S01003058,Darnley West,Greater Pollok,Glasgow Pollok,502,861,1006,2017,251,309,330,424
+S01003151,Shettleston South,Shettleston,Glasgow Baillieston,2013,1823,2406,2018,459,437,473,425
+S01003329,Greenfield,Baillieston,Glasgow Baillieston,1577,1472,2049,2047,417,391,442,426
+S01003502,"Garthamlock, Auchinlea and Gartloch",North East,Glasgow Baillieston,437,381,1118,2055,222,188,339,427
+S01003325,Hillington,Craigton,Glasgow Pollok,3673,3154,3002,2056,577,536,521,428
+S01003211,Pollokshields East,Pollokshields,Glasgow Govan,962,2006,699,2075,342,457,260,429
+S01003298,Hillington,Craigton,Glasgow Pollok,3443,2329,2727,2108,568,482,500,430
+S01003230,Mosspark,Craigton,Glasgow Pollok,1648,1680,1455,2115,425,420,385,431
+S01003478,Hillhead,Partick West,Glasgow Kelvin,1953,1835,2434,2117,455,440,476,432
+S01003250,Mosspark,Craigton,Glasgow Pollok,2292,2025,1841,2126,484,459,425,433
+S01003406,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,1081,1407,1918,2133,356,386,430,434
+S01003062,Darnley North,Greater Pollok,Glasgow Pollok,2577,2433,2230,2148,504,488,455,435
+S01003235,Shettleston South,Shettleston,Glasgow Shettleston,2186,2384,2256,2154,471,486,458,436
+S01003338,Kinning Park and Festival Park,Govan,Glasgow Govan,1334,1712,1237,2157,390,423,359,437
+S01003100,Newlands,Newlands/Auldburn,Glasgow Cathcart,2219,1639,1665,2158,476,412,407,438
+S01003265,Cardonald West and Central,Craigton,Glasgow Pollok,2431,2266,2643,2161,492,477,493,439
+S01003172,Strathbungo,Southside Central,Glasgow Shettleston,1806,1693,1529,2162,436,421,393,440
+S01003094,Merrylee and Millbrae,Newlands/Auldburn,Glasgow Cathcart,3113,2235,2513,2182,542,476,482,441
+S01003053,Darnley North,Greater Pollok,Glasgow Pollok,2604,2472,1920,2184,506,491,431,442
+S01003192,Strathbungo,Southside Central,Glasgow Govan,1814,1738,1736,2192,438,430,415,443
+S01003633,Yoker South,Garscadden/Scotstounhill,Glasgow Anniesland,2208,1701,2016,2194,475,422,438,444
+S01003148,Carmyle and Mount Vernon South,Shettleston,Glasgow Baillieston,1639,1538,1659,2214,424,399,406,445
+S01003154,Shawlands East,Langside,Glasgow Govan,1918,1891,1775,2229,450,446,420,446
+S01003683,Blairdardie East,Garscadden/Scotstounhill,Glasgow Anniesland,1560,1799,2340,2278,416,435,464,447
+S01003137,Shawlands East,Langside,Glasgow Govan,2621,2815,2923,2305,508,512,515,448
+S01003691,Summerston Central and West,Maryhill/Kelvin,Glasgow Maryhill,2343,2431,3144,2315,490,487,536,449
+S01003156,Battlefield,Langside,Glasgow Cathcart,2336,2212,1759,2375,488,474,416,450
+S01003304,Kingston West and Dumbreck,Govan,Glasgow Govan,1579,2234,1567,2378,418,475,396,451
+S01003468,Woodlands,Hillhead,Glasgow Maryhill,1523,1732,1760,2381,413,428,417,452
+S01003395,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,1875,1668,2355,2387,446,416,465,453
+S01003614,Kelvinside and Jordanhill,Partick West,Glasgow Anniesland,2943,2640,2400,2391,533,502,472,454
+S01003127,Kingspark North,Langside,Glasgow Rutherglen,3308,2825,3044,2395,560,514,526,455
+S01003449,City Centre West,Anderston/City,Glasgow Kelvin,1831,2496,2747,2423,440,493,501,456
+S01003403,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,977,1197,1646,2429,343,361,403,457
+S01003360,Barlanark,Baillieston,Glasgow Baillieston,1460,1637,1802,2444,407,411,422,458
+S01003324,Ibrox East and Cessnock,Govan,Glasgow Govan,434,425,1077,2475,220,204,337,459
+S01003510,Cowlairs and Port Dundas,Springburn,Glasgow Springburn,825,899,3472,2482,322,321,556,460
+S01003528,"Garthamlock, Auchinlea and Gartloch",North East,Glasgow Baillieston,1895,3394,3284,2485,448,551,549,461
+S01003073,Kingspark South,Linn,Glasgow Cathcart,3820,3519,2140,2488,586,560,448,462
+S01003415,City Centre East,Anderston/City,Glasgow Kelvin,1621,1300,2240,2489,423,371,457,463
+S01003380,Dennistoun,East Centre,Glasgow Springburn,1548,1622,2223,2492,415,409,454,464
+S01003348,Kinning Park and Festival Park,Govan,Glasgow Govan,1716,2383,2508,2495,428,485,481,465
+S01003487,Woodlands,Hillhead,Glasgow Maryhill,1858,2015,1911,2501,444,458,429,466
+S01003476,"Garthamlock, Auchinlea and Gartloch",North East,Glasgow Baillieston,1404,2207,2212,2506,402,473,452,467
+S01003417,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,1834,1926,2332,2514,441,449,463,468
+S01003451,Hillhead,Partick West,Glasgow Kelvin,2082,2279,2816,2538,467,479,509,469
+S01003130,Mount Florida,Langside,Glasgow Cathcart,2279,2671,2629,2542,483,506,492,470
+S01003278,Cardonald North,Craigton,Glasgow Pollok,3069,3505,2656,2552,539,557,494,471
+S01003257,Pollokshields West,Pollokshields,Glasgow Govan,2073,2856,1768,2582,466,517,419,472
+S01003648,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,2641,2060,2399,2585,510,461,471,473
+S01003285,Gorbals and Hutchesontown,Southside Central,Glasgow Shettleston,251,382,175,2600,159,189,97,474
+S01003201,Dalmarnock,Calton,Glasgow Shettleston,84,1024,2516,2615,62,336,483,475
+S01003209,Mosspark,Craigton,Glasgow Pollok,1961,2334,2072,2635,456,483,443,476
+S01003078,Muirend and Old Cathcart,Newlands/Auldburn,Glasgow Cathcart,2998,3356,3626,2642,538,547,569,477
+S01003195,Carmyle and Mount Vernon South,Shettleston,Glasgow Baillieston,2853,3012,2375,2661,523,527,467,478
+S01003344,Penilee,Craigton,Glasgow Pollok,222,2196,3269,2664,143,472,547,479
+S01003157,Shawlands West,Pollokshields,Glasgow Govan,1494,1546,1249,2666,410,402,361,480
+S01003143,Mount Florida,Langside,Glasgow Cathcart,1944,1904,2028,2687,454,448,439,481
+S01003618,Knightswood Park East,Garscadden/Scotstounhill,Glasgow Anniesland,2234,2125,2082,2708,478,467,445,482
+S01003464,Woodlands,Hillhead,Glasgow Maryhill,2528,3387,3276,2709,500,550,548,483
+S01003176,Strathbungo,Southside Central,Glasgow Govan,1722,1060,2111,2712,431,343,447,484
+S01003715,Drumry West,Drumchapel/Anniesland,Glasgow Anniesland,729,2160,2821,2736,303,469,510,485
+S01003409,Dennistoun North and Alexandra Parade,East Centre,Glasgow Springburn,799,1363,1963,2738,318,382,434,486
+S01003649,Springburn East and Cowlairs,Canal,Glasgow Maryhill,3391,3155,2695,2751,565,537,496,487
+S01003385,Dennistoun,East Centre,Glasgow Springburn,2707,2816,3506,2758,514,513,563,488
+S01003129,Langside,Langside,Glasgow Govan,3272,2546,2778,2777,554,495,504,489
+S01003477,Glasgow Harbour and  Partick South,Partick West,Glasgow Kelvin,2710,2483,3026,2809,515,492,523,490
+S01003065,Muirend and Old Cathcart,Linn,Glasgow Cathcart,2956,3399,2598,2814,535,553,489,491
+S01003149,Shawlands East,Langside,Glasgow Govan,2677,2974,2999,2833,512,524,520,492
+S01003300,Baillieston East,Baillieston,Glasgow Baillieston,2487,2661,2755,2834,499,505,503,493
+S01003164,Battlefield,Southside Central,Glasgow Shettleston,1428,1319,979,2837,404,374,325,494
+S01003087,Kingspark South,Linn,Glasgow Cathcart,2799,2538,2710,2838,520,494,498,495
+S01003091,Kingspark South,Linn,Glasgow Cathcart,3170,3202,2369,2844,548,539,466,496
+S01003034,Darnley East,Greater Pollok,Glasgow Pollok,2880,3315,2574,2846,528,545,487,497
+S01003694,Blairdardie West,Drumchapel/Anniesland,Glasgow Anniesland,2874,2939,2931,2861,526,523,516,498
+S01003219,Mosspark,Craigton,Glasgow Pollok,2112,2094,2704,2882,469,465,497,499
+S01003187,Strathbungo,Pollokshields,Glasgow Govan,2762,2871,3041,2897,519,518,525,500
+S01003080,Kingspark South,Linn,Glasgow Cathcart,3086,3129,2885,2899,540,534,513,501
+S01003038,Darnley West,Greater Pollok,Glasgow Pollok,4254,4477,2754,2928,609,622,502,502
+S01003658,Knightswood West,Garscadden/Scotstounhill,Glasgow Anniesland,1912,3023,2378,2949,449,529,469,503
+S01003470,Hillhead,Partick West,Glasgow Kelvin,1378,1832,3024,2952,398,439,522,504
+S01003430,Anderston,Anderston/City,Glasgow Kelvin,2464,2913,3517,2966,497,521,564,505
+S01003581,Ruchill,Canal,Glasgow Maryhill,2965,3068,3192,2987,536,531,541,506
+S01003292,Garrowhill West,Baillieston,Glasgow Baillieston,3785,3322,2782,3030,584,546,505,507
+S01003321,Garrowhill East and Swinton,Baillieston,Glasgow Baillieston,2916,3205,3221,3033,530,540,543,508
+S01003436,Drumoyne and Shieldhall,Govan,Glasgow Govan,3285,1862,2397,3035,558,442,470,509
+S01003358,City Centre East,Anderston/City,Glasgow Kelvin,1941,1345,2376,3036,453,375,468,510
+S01003179,Govanhill West,Southside Central,Glasgow Shettleston,1240,1765,766,3069,376,433,280,511
+S01003183,Strathbungo,Southside Central,Glasgow Govan,1781,2103,3362,3079,435,466,552,512
+S01003371,Dennistoun,East Centre,Glasgow Springburn,1888,2850,4242,3081,447,516,600,513
+S01003625,Wyndford,Maryhill/Kelvin,Glasgow Maryhill,147,1465,2622,3090,104,389,491,514
+S01003131,Battlefield,Langside,Glasgow Cathcart,3136,3716,4045,3101,545,573,589,515
+S01003086,Newlands,Newlands/Auldburn,Glasgow Cathcart,2857,2695,2108,3113,524,509,446,516
+S01003259,Baillieston East,Baillieston,Glasgow Baillieston,2876,3509,3640,3132,527,559,570,517
+S01003240,Cardonald West and Central,Craigton,Glasgow Pollok,3516,2986,4002,3136,570,525,588,518
+S01003496,Partick,Partick West,Glasgow Kelvin,3169,3485,3520,3146,547,555,565,519
+S01003146,Shawlands East,Langside,Glasgow Govan,2607,2606,3153,3180,507,500,537,520
+S01003447,City Centre East,Anderston/City,Glasgow Kelvin,938,1394,2559,3184,338,383,485,521
+S01003548,Barmulloch,Springburn,Glasgow Springburn,64,246,1586,3192,47,136,399,522
+S01003631,Knightswood Park East,Garscadden/Scotstounhill,Glasgow Anniesland,2021,3507,3233,3208,461,558,544,523
+S01003114,Mount Florida,Langside,Glasgow Cathcart,3574,4029,3108,3210,571,592,534,524
+S01003136,Mount Florida,Langside,Glasgow Cathcart,2568,2650,2605,3220,503,503,490,525
+S01003532,Victoria Park,Partick West,Glasgow Kelvin,4639,3649,3803,3226,634,566,577,526
+S01003566,Ruchill,Canal,Glasgow Maryhill,3104,3073,3473,3231,541,532,557,527
+S01003410,City Centre West,Anderston/City,Glasgow Kelvin,2019,2556,3167,3235,460,496,539,528
+S01003659,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,2935,3364,2855,3247,532,549,512,529
+S01003382,Anderston,Anderston/City,Glasgow Kelvin,672,797,2074,3253,290,297,444,530
+S01003173,Strathbungo,Southside Central,Glasgow Govan,2197,3076,2238,3255,472,533,456,531
+S01003125,Langside,Langside,Glasgow Cathcart,3219,3248,2454,3266,550,543,478,532
+S01003667,Yoker North,Garscadden/Scotstounhill,Glasgow Anniesland,2994,3020,2983,3270,537,528,519,533
+S01003638,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,3925,3041,3047,3277,594,530,527,534
+S01003303,Laurieston and Tradeston,Govan,Glasgow Govan,1238,1129,2504,3281,375,353,480,535
+S01003547,North Kelvin,Canal,Glasgow Maryhill,2224,2435,2266,3286,477,489,459,536
+S01003119,Kingspark North,Langside,Glasgow Rutherglen,2447,2761,1827,3289,494,510,423,537
+S01003517,Firhill,Hillhead,Glasgow Maryhill,2437,2004,2806,3293,493,455,508,538
+S01003283,Garrowhill West,Baillieston,Glasgow Baillieston,3655,4017,3896,3325,575,590,582,539
+S01003041,Darnley West,Greater Pollok,Glasgow Pollok,3923,3686,2418,3346,593,569,474,540
+S01003520,Partickhill and Hyndland,Hillhead,Glasgow Kelvin,4063,3495,3388,3348,603,556,554,541
+S01003123,Pollok South and West,Greater Pollok,Glasgow Pollok,4015,4331,3967,3369,600,610,587,542
+S01003115,Pollokshaws,Newlands/Auldburn,Glasgow Cathcart,3189,2847,3027,3374,549,515,524,543
+S01003425,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,2339,2902,2965,3384,489,519,518,544
+S01003210,Maxwell Park,Pollokshields,Glasgow Govan,3278,3362,3101,3390,556,548,531,545
+S01003241,Shettleston South,Shettleston,Glasgow Shettleston,2917,3564,3832,3401,531,563,579,546
+S01003479,Hillhead,Partick West,Glasgow Kelvin,2207,2377,2802,3402,474,484,507,547
+S01003097,Crookston South,Greater Pollok,Glasgow Pollok,172,2156,3478,3406,117,468,559,548
+S01003197,Mount Vernon North and Sandyhills,Shettleston,Glasgow Baillieston,3945,3883,4336,3414,596,583,608,549
+S01003446,City Centre West,Anderston/City,Glasgow Kelvin,2750,3166,3340,3433,517,538,551,550
+S01003170,Maxwell Park,Pollokshields,Glasgow Govan,3130,3653,2319,3482,544,567,460,551
+S01003676,Anniesland West,Drumchapel/Anniesland,Glasgow Anniesland,549,1900,2657,3491,266,447,495,552
+S01003465,Glasgow Harbour and  Partick South,Partick West,Glasgow Kelvin,2237,2032,2841,3507,480,460,511,553
+S01003320,Kinning Park and Festival Park,Govan,Glasgow Govan,1358,2590,3107,3515,396,499,533,554
+S01003370,Dennistoun,East Centre,Glasgow Springburn,2863,3275,3102,3528,525,544,532,555
+S01003484,Kelvingrove and University,Hillhead,Glasgow Kelvin,2538,3002,3155,3563,501,526,538,556
+S01003166,Shawlands West,Pollokshields,Glasgow Govan,2814,3713,3929,3578,521,572,584,557
+S01003682,Summerston North,Maryhill/Kelvin,Glasgow Maryhill,4326,3838,3383,3596,615,580,553,558
+S01003328,"Calton, Gallowgate and Bridgeton",Calton,Glasgow Shettleston,2312,1586,2963,3617,486,407,517,559
+S01003613,Robroyston and Millerston,North East,Glasgow Springburn,3417,3679,3074,3681,567,568,530,560
+S01003612,Anniesland East,Maryhill/Kelvin,Glasgow Anniesland,4498,4555,4424,3729,625,625,615,561
+S01003501,Kelvingrove and University,Hillhead,Glasgow Kelvin,2304,2626,3495,3733,485,501,562,562
+S01003295,Greenfield,Shettleston,Glasgow Baillieston,2911,3632,3945,3744,529,565,585,563
+S01003212,Mount Vernon North and Sandyhills,Baillieston,Glasgow Baillieston,3765,3808,3663,3746,582,578,571,564
+S01003318,Garrowhill East and Swinton,Baillieston,Glasgow Baillieston,3378,3939,4061,3789,563,585,590,565
+S01003081,Carnwadric West,Newlands/Auldburn,Glasgow Cathcart,3722,4594,2569,3807,579,628,486,566
+S01003177,Strathbungo,Pollokshields,Glasgow Govan,3741,3561,3762,3820,581,562,575,567
+S01003497,Kelvingrove and University,Partick West,Glasgow Kelvin,3656,3839,3676,3856,576,581,573,568
+S01003102,Kingspark North,Langside,Glasgow Rutherglen,4397,4211,4166,3875,619,604,595,569
+S01003193,Baillieston East,Baillieston,Glasgow Baillieston,2463,2914,3176,3879,496,522,540,570
+S01003491,Sighthill,Springburn,Glasgow Springburn,197,511,3143,3886,130,232,535,571
+S01003506,Firhill,Hillhead,Glasgow Maryhill,3139,2568,3209,3914,546,498,542,572
+S01003079,Muirend and Old Cathcart,Linn,Glasgow Cathcart,4580,4635,4562,3916,631,632,624,573
+S01003609,Kelvinside and Jordanhill,Partick West,Glasgow Anniesland,4372,4014,3801,3920,618,589,576,574
+S01003234,Pollokshields West,Pollokshields,Glasgow Govan,3282,4138,3811,3927,557,598,578,575
+S01003282,Cardonald West and Central,Craigton,Glasgow Pollok,3799,4373,3869,3933,585,615,581,576
+S01003168,Shawlands West,Pollokshields,Glasgow Govan,2669,2458,3240,3960,511,490,545,577
+S01003067,Carmunnock North,Linn,Glasgow Cathcart,4542,4319,4489,3974,630,608,618,578
+S01003124,Battlefield,Langside,Glasgow Cathcart,3125,3224,3296,3994,543,541,550,579
+S01003169,Pollok South and West,Greater Pollok,Glasgow Pollok,3829,3230,3477,4000,587,542,558,580
+S01003516,Blackhill and Barmulloch East,North East,Glasgow Springburn,3620,3692,3737,4029,572,571,574,581
+S01003433,City Centre West,Anderston/City,Glasgow Kelvin,4003,3130,3494,4049,599,535,561,582
+S01003252,Baillieston West,Baillieston,Glasgow Baillieston,4885,4341,4805,4096,648,612,638,583
+S01003112,Cathcart,Langside,Glasgow Cathcart,4675,4321,3852,4115,636,609,580,584
+S01003632,Anniesland East,Maryhill/Kelvin,Glasgow Anniesland,4305,4416,4175,4125,613,618,596,585
+S01003460,Hillhead,Partick West,Glasgow Kelvin,3321,3832,3488,4127,561,579,560,586
+S01003096,Kingspark South,Linn,Glasgow Cathcart,4524,4179,3071,4129,627,602,529,587
+S01003507,Firhill,Hillhead,Glasgow Maryhill,3511,4747,3956,4132,569,642,586,588
+S01003542,Dowanhill,Hillhead,Glasgow Kelvin,4534,3755,4311,4140,628,576,606,589
+S01003141,Langside,Langside,Glasgow Govan,5031,4661,5664,4143,655,635,681,590
+S01003529,Petershill,Springburn,Glasgow Springburn,3679,4730,4847,4188,578,639,642,591
+S01003037,Darnley West,Greater Pollok,Glasgow Pollok,3348,4350,2721,4211,562,614,499,592
+S01003258,Baillieston West,Baillieston,Glasgow Baillieston,4111,3691,4223,4217,604,570,599,593
+S01003186,Maxwell Park,Pollokshields,Glasgow Govan,4364,5110,3438,4220,617,659,555,594
+S01003626,Robroyston and Millerston,North East,Glasgow Springburn,3781,4303,4309,4242,583,606,605,595
+S01003641,Robroyston and Millerston,North East,Glasgow Springburn,5880,5809,4127,4259,690,688,592,596
+S01003474,Woodlands,Hillhead,Glasgow Maryhill,3224,3480,3246,4260,551,554,546,597
+S01003438,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,2685,3398,4396,4271,513,552,612,598
+S01003503,Hillhead,Partick West,Glasgow Kelvin,3724,4057,4919,4317,580,593,646,599
+S01003550,Robroyston and Millerston,North East,Glasgow Springburn,4519,5017,4138,4336,626,653,593,600
+S01003139,Shawlands West,Pollokshields,Glasgow Govan,4264,3998,4447,4370,610,588,617,601
+S01003341,Garrowhill East and Swinton,Baillieston,Glasgow Baillieston,4820,4736,5295,4380,644,641,663,602
+S01003569,Victoria Park,Partick West,Glasgow Anniesland,4707,5469,4511,4393,638,680,620,603
+S01003525,Partickhill and Hyndland,Partick West,Glasgow Kelvin,3919,4018,4878,4416,592,591,644,604
+S01003588,Robroyston and Millerston,North East,Glasgow Springburn,3992,4081,4659,4424,598,594,629,605
+S01003133,Langside,Langside,Glasgow Govan,4471,4495,4302,4431,624,624,604,606
+S01003504,Kelvingrove and University,Hillhead,Glasgow Kelvin,2842,4122,3589,4432,522,596,566,607
+S01003260,Mount Vernon North and Sandyhills,Shettleston,Glasgow Baillieston,4464,4121,4387,4450,623,595,611,608
+S01003089,Newlands,Newlands/Auldburn,Glasgow Cathcart,4967,4625,4140,4459,654,631,594,609
+S01003533,Petershill,Springburn,Glasgow Springburn,245,779,1096,4498,155,293,338,610
+S01003261,Cardonald West and Central,Craigton,Glasgow Pollok,4905,4615,4680,4524,649,630,630,611
+S01003432,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,3301,4343,4398,4525,559,613,613,612
+S01003288,Garrowhill West,Baillieston,Glasgow Baillieston,5263,5085,5166,4562,666,658,658,613
+S01003524,Broomhill,Partick West,Glasgow Kelvin,4763,4220,4581,4573,640,605,625,614
+S01003570,Scotstoun North and East,Garscadden/Scotstounhill,Glasgow Kelvin,4272,4338,4730,4582,611,611,635,615
+S01003453,Woodlands,Anderston/City,Glasgow Kelvin,2236,3566,3903,4597,479,564,583,616
+S01003399,City Centre East,Anderston/City,Glasgow Kelvin,3241,3551,4359,4598,553,561,610,617
+S01003620,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,4831,5041,4946,4610,645,656,648,618
+S01003514,Dowanhill,Hillhead,Glasgow Kelvin,3402,4139,4204,4613,566,600,597,619
+S01003513,Kelvingrove and University,Hillhead,Glasgow Kelvin,3236,4153,4216,4634,552,601,598,620
+S01003163,Maxwell Park,Pollokshields,Glasgow Govan,5146,4649,3624,4646,663,634,568,621
+S01003452,Riddrie and Hogganfield,East Centre,Glasgow Springburn,3929,3921,4402,4659,595,584,614,622
+S01003113,Kingspark North,Langside,Glasgow Rutherglen,4809,4182,4287,4662,643,603,603,623
+S01003196,Maxwell Park,Pollokshields,Glasgow Govan,4616,4856,3611,4720,632,646,567,624
+S01003530,Firhill,Canal,Glasgow Maryhill,3902,3751,4508,4727,591,575,619,625
+S01003027,Darnley East,Greater Pollok,Glasgow Pollok,4032,4394,4285,4746,601,616,602,626
+S01003311,Garrowhill West,Baillieston,Glasgow Baillieston,5086,5241,5411,4754,659,669,670,627
+S01003059,Muirend and Old Cathcart,Newlands/Auldburn,Glasgow Cathcart,5310,4748,4254,4757,669,643,601,628
+S01003171,Maxwell Park,Pollokshields,Glasgow Govan,4960,4966,3669,4769,653,649,572,629
+S01003025,Carmunnock South,Linn,Glasgow Cathcart,4420,3949,4639,4776,621,586,628,630
+S01003323,Garrowhill West,Baillieston,Glasgow Baillieston,4131,4768,5053,4777,606,644,652,631
+S01003526,North Kelvin,Hillhead,Glasgow Kelvin,4630,3956,4907,4782,633,587,645,632
+S01003554,North Kelvin,Canal,Glasgow Maryhill,3959,3770,4709,4786,597,577,632,633
+S01003423,Anderston,Anderston/City,Glasgow Kelvin,4113,4454,4125,4807,605,619,591,634
+S01003074,Newlands,Newlands/Auldburn,Glasgow Cathcart,5658,5601,4940,4814,681,685,647,635
+S01003485,Woodlands,Hillhead,Glasgow Maryhill,4540,4713,4793,4830,629,638,636,636
+S01003574,Ruchill,Canal,Glasgow Maryhill,4462,4306,5012,4869,622,607,651,637
+S01003106,Newlands,Newlands/Auldburn,Glasgow Cathcart,5407,4985,4333,4872,673,652,607,638
+S01003699,Summerston Central and West,Maryhill/Kelvin,Glasgow Maryhill,5397,4863,4866,4895,671,647,643,639
+S01003616,Robroyston and Millerston,North East,Glasgow Springburn,5441,5144,4814,4955,674,663,639,640
+S01003120,Pollok South and West,Greater Pollok,Glasgow Pollok,5400,4732,4352,4961,672,640,609,641
+S01003180,Shettleston South,Shettleston,Glasgow Shettleston,3847,4557,4545,4963,588,626,623,642
+S01003330,Garrowhill East and Swinton,Baillieston,Glasgow Baillieston,4849,5210,5401,4978,646,666,669,643
+S01003071,Muirend and Old Cathcart,Newlands/Auldburn,Glasgow Cathcart,5829,5467,4713,4985,688,679,633,644
+S01003522,Dowanhill,Hillhead,Glasgow Kelvin,3857,4138,4798,5015,590,598,637,645
+S01003061,Carmunnock North,Linn,Glasgow Cathcart,5288,5348,5565,5055,667,673,676,646
+S01003527,Victoria Park,Partick West,Glasgow Anniesland,5247,5270,5185,5095,665,671,659,647
+S01003437,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,3625,3856,4819,5115,573,582,640,648
+S01003153,Maxwell Park,Pollokshields,Glasgow Govan,3849,4461,4689,5143,589,620,631,649
+S01003103,Kingspark North,Langside,Glasgow Cathcart,5873,5124,5203,5162,689,660,661,650
+S01003623,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,4877,4564,4594,5184,647,627,627,651
+S01003359,Garrowhill East and Swinton,Baillieston,Glasgow Baillieston,5294,5460,5226,5196,668,677,662,652
+S01003675,Anniesland East,Drumchapel/Anniesland,Glasgow Anniesland,5059,4898,4445,5284,657,648,616,653
+S01003521,Kelvingrove and University,Hillhead,Glasgow Kelvin,4275,4405,5441,5287,612,617,672,654
+S01003368,Gallowgate North and Bellgrove,Calton,Glasgow Shettleston,4793,1548,5108,5288,642,403,655,655
+S01003544,North Kelvin,Canal,Glasgow Maryhill,4728,4478,4538,5300,639,623,622,656
+S01003560,Broomhill,Partick West,Glasgow Kelvin,5753,5550,5460,5317,683,681,674,657
+S01003594,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,4195,4466,5436,5327,608,621,671,658
+S01003224,Mount Vernon North and Sandyhills,Shettleston,Glasgow Baillieston,5552,5598,5814,5328,677,684,686,659
+S01003085,Cathcart,Linn,Glasgow Cathcart,5103,4603,4996,5336,661,629,649,660
+S01003429,Finnieston and Kelvinhaugh,Anderston/City,Glasgow Kelvin,4311,5244,5340,5353,614,670,667,661
+S01003539,Broomhill,Partick West,Glasgow Kelvin,5770,5344,5720,5364,685,672,682,662
+S01003661,Anniesland East,Maryhill/Kelvin,Glasgow Anniesland,4674,4967,5116,5431,635,650,656,663
+S01003276,Garrowhill West,Baillieston,Glasgow Baillieston,5757,5051,5071,5445,684,657,653,664
+S01003068,Carmunnock North,Linn,Glasgow Cathcart,5666,5183,5161,5456,682,665,657,665
+S01003576,Kelvinside and Jordanhill,Hillhead,Glasgow Kelvin,4690,4129,4720,5458,637,597,634,666
+S01003155,Pollok South and West,Greater Pollok,Glasgow Pollok,5924,5175,4590,5465,691,664,626,667
+S01003559,Scotstoun North and East,Garscadden/Scotstounhill,Glasgow Kelvin,4952,5236,5604,5495,652,668,677,668
+S01003050,Carmunnock North,Linn,Glasgow Cathcart,4789,5036,5637,5527,641,655,680,669
+S01003110,Merrylee and Millbrae,Newlands/Auldburn,Glasgow Cathcart,5813,5912,5962,5551,687,691,690,670
+S01003660,Robroyston and Millerston,North East,Glasgow Springburn,5639,5431,5194,5556,680,676,660,671
+S01003552,Kelvinside and Jordanhill,Hillhead,Glasgow Kelvin,6246,5989,5930,5569,694,692,689,672
+S01003233,Mount Vernon North and Sandyhills,Shettleston,Glasgow Baillieston,5077,5134,5337,5645,658,662,666,673
+S01003568,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,4133,4843,5758,5649,607,645,684,674
+S01003556,Scotstoun North and East,Garscadden/Scotstounhill,Glasgow Kelvin,5114,5425,6117,5655,662,675,692,675
+S01003366,City Centre East,Anderston/City,Glasgow Kelvin,3653,4692,5098,5698,574,637,654,676
+S01003066,Muirend and Old Cathcart,Linn,Glasgow Cathcart,5607,5555,5824,5702,678,682,687,677
+S01003697,Blairdardie West,Drumchapel/Anniesland,Glasgow Anniesland,5621,5593,5773,5703,679,683,685,678
+S01003229,Pollokshields West,Pollokshields,Glasgow Govan,4417,5834,5003,5705,620,689,650,679
+S01003109,Merrylee and Millbrae,Newlands/Auldburn,Glasgow Cathcart,5187,5131,5358,5711,664,661,668,680
+S01003555,North Kelvin,Canal,Glasgow Maryhill,5095,4677,5314,5728,660,636,665,681
+S01003589,Kelvindale,Maryhill/Kelvin,Glasgow Anniesland,5796,5618,5860,5753,686,686,688,682
+S01003558,Dowanhill,Hillhead,Glasgow Kelvin,4948,4978,5457,5791,651,651,673,683
+S01003511,Partickhill and Hyndland,Partick West,Glasgow Kelvin,5035,5021,5306,5801,656,654,664,684
+S01003591,Kelvinside and Jordanhill,Partick West,Glasgow Anniesland,5942,5873,6097,5844,692,690,691,685
+S01003545,Dowanhill,Hillhead,Glasgow Kelvin,5505,5374,5611,5949,675,674,678,686
+S01003597,Kelvinside and Jordanhill,Partick West,Glasgow Anniesland,4338,4636,4838,5990,616,633,641,687
+S01003095,Newlands,Newlands/Auldburn,Glasgow Cathcart,5506,5688,5528,6026,676,687,675,688
+S01003509,Kelvingrove and University,Hillhead,Glasgow Kelvin,4934,5219,5635,6039,650,667,679,689
+S01003587,Kelvinside and Jordanhill,Partick West,Glasgow Anniesland,6241,6109,6132,6060,693,693,693,690
+S01003536,Partickhill and Hyndland,Hillhead,Glasgow Kelvin,5338,5460,5733,6103,670,677,683,691
+S01003031,Glenwood South,Linn,Glasgow Cathcart,179,6473,6504,6502,120,694,694,692
+S01003319,Craigton,Govan,Glasgow Govan,23,864,4526,6502,14,310,621,692
+S01003505,Sighthill,Springburn,Glasgow Springburn,386,627,3054,6502,207,266,528,692

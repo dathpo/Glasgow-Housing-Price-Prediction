@@ -17,6 +17,7 @@ import sklearn
 # COMMENT CODE FOR ASSIGNMENT!
 
 pd.options.mode.chained_assignment = None
+pd.set_option('display.max_columns', None)
 prices_folder = Path("data/")
 cols_2excl = ['CLASS', 'STNO', 'STnu', 'FLATPOSN', 'YEAR OF SALE (BUSINESS)', 'RPI', 'DEFLATOR', 'OMIT OR USE']
 new_cols = ['street', 'postcode', 'sale_month', 'sale_year', 'sale_date', 'sale_quarter', 'nominal_price',
@@ -54,6 +55,7 @@ datazone_df = from_xls()
 merged = pd.merge(dataframe, datazone_df, on='postcode')
 
 simd_df = pd.read_csv('data/simd/simd-overall-2004-2012-glasgow-v2.csv')
+
 simd_df_04 = simd_df[['Datazone', 'overall_deprivation_rank_2004']]
 simd_df_04.columns = ['datazone', 'overall_deprivation_rank']
 simd_df_04['sale_year'] = 2004
@@ -82,8 +84,8 @@ merged_12.drop(columns=['overall_deprivation_rank_x', 'overall_deprivation_rank_
 merged_12 = merged_12.sort_values(by=['sale_date', 'july_2013_price'], ascending=False)
 merged_12 = merged_12[['street', 'postcode', 'datazone', 'local_housing_forum', 'overall_deprivation_rank',
                        'sale_date', 'sale_quarter', 'sale_year', 'sale_month', 'nominal_price', 'july_2013_price', 'build', 'buyer_origin']]
-merged_12.to_csv(path_or_buf='dataframe.csv', index=False)
-
+# merged_12.to_csv(path_or_buf='dataframe.csv', index=False)
+df = merged_12
 
 # rs_data = np.array(rs_fitness)
 # hs_internal = np.array(hc_internal_fitness)
@@ -141,12 +143,29 @@ merged_12.to_csv(path_or_buf='dataframe.csv', index=False)
 # ax.get_xaxis().tick_bottom()
 # ax.get_yaxis().tick_left()
 
-
 # Save the figure
-pwd = os.path.abspath(os.path.dirname(__file__))
-graph_path = os.path.join(pwd, 'graph.pdf')
-pdf = PdfPages(graph_path)
-plt.savefig(pdf, format='pdf', bbox_inches='tight')
-plt.show()
-pdf.close()
-pdf = None
+def create_pdf_fig(filename):
+    pwd = os.path.abspath(os.path.dirname(__file__))
+    graph_path = os.path.join(pwd, '{}.pdf'.format(filename))
+    pdf = PdfPages(graph_path)
+    plt.savefig(pdf, format='pdf', bbox_inches='tight')
+    plt.show()
+    pdf.close()
+    pdf = None
+
+print(df.july_2013_price.describe().apply(lambda x: format(x, '.2f')).to_latex())
+print()
+print(df.info())
+print()
+print(df.head())
+print()
+print("Find most important features relative to target")
+corr = df.corr()
+corr.sort_values(["july_2013_price"], ascending = False, inplace = True)
+print(corr.july_2013_price)
+
+df.overall_deprivation_rank.plot(kind='box', subplots=True)
+create_pdf_fig('simd_box')
+
+df.july_2013_price.plot(kind='box')
+create_pdf_fig('price_box')
