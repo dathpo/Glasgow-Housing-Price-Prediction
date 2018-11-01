@@ -3,6 +3,7 @@
 
 dataframe.csv
 *.csv#
+*.pdf
 
 venv/
 __pycache__/
