@@ -4,7 +4,9 @@
 dataframe.csv
 *.csv#
 *.pdf
+clean_dataframe.csv
 /*.csv
+/figures
 
 venv/
 __pycache__/
